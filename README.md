@@ -18,7 +18,7 @@ It demonstrates a complete ML pipeline — from preprocessing text data to train
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 - Python
 - NumPy
 - Pandas
@@ -28,7 +28,7 @@ It demonstrates a complete ML pipeline — from preprocessing text data to train
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ```
 movie-review-sentiment-analysis/
 │── data/                # Dataset files
@@ -41,7 +41,7 @@ movie-review-sentiment-analysis/
 
 ---
 
-## 📊 Dataset
+##  Dataset
 - IMDb Movie Reviews Dataset
 - Labeled data:
   - Positive reviews
@@ -70,7 +70,7 @@ python main.py
 
 ---
 
-## 🔍 Workflow
+##  Workflow
 1. Data Collection
 2. Text Preprocessing
 3. Feature Extraction (TF-IDF / BoW)

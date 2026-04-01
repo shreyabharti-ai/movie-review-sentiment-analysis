@@ -90,7 +90,7 @@ python main.py
 
 ---
 
-## 🧪 Example
+##  Example
 ```python
 Input: "This movie was amazing!"
 Output: Positive ✅
@@ -101,7 +101,7 @@ Output: Negative ❌
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 - Implement Deep Learning models (LSTM, BERT)
 - Build a web app using Flask or Streamlit
 - Improve accuracy with hyperparameter tuning
@@ -109,16 +109,16 @@ Output: Negative ❌
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
 ---
 
-## 📄 License
+##  License
 This project is licensed under the MIT License.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 **Shreya Bharti**  
 GitHub: https://github.com/shreyabharti-ai

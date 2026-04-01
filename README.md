@@ -1,4 +1,4 @@
-# 🎬 IMDb Movie Review Sentiment Analysis
+#  IMDb Movie Review Sentiment Analysis
 
 ## 📌 Overview
 This project builds a **Sentiment Analysis model** that classifies IMDb movie reviews as **Positive** or **Negative** using Natural Language Processing (NLP) and Machine Learning.

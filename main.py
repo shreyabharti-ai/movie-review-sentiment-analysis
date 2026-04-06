@@ -4,7 +4,6 @@ from src.experiment_runner import run_full_experiment
 
 DATA_PATH = "IMDB_Dataset.csv"
 
-
 def main():
     print("Loading data...")
     df = load_data(DATA_PATH)

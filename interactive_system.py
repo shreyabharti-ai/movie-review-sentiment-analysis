@@ -29,6 +29,7 @@ if choice not in MODELS:
 
 model_name = MODELS[choice]
 
+
 model_path = f"models/{FEATURE_TYPE}_{model_name}.pkl"
 vectorizer_path = f"models/{FEATURE_TYPE}_{model_name}_vectorizer.pkl"
 

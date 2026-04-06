@@ -26,6 +26,7 @@ if choice not in MODELS:
     print("Invalid choice.")
     exit()
 
+
 model_name = MODELS[choice]
 
 model_path = f"models/{FEATURE_TYPE}_{model_name}.pkl"

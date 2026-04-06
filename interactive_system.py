@@ -12,6 +12,7 @@ MODELS = {
     "4": "rf"
 }
 
+
 print("\n========== SENTIMENT ANALYSIS SYSTEM ==========")
 print("\nChoose Model:")
 print("1 - Logistic Regression")

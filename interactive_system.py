@@ -76,6 +76,7 @@ if model_name in ["logreg", "svm"]:
     indices = review_vec.nonzero()[1]
     contributions = []
 
+    
     for idx in indices:
         word = feature_names[idx]
         contribution = coefficients[idx] * review_vec[0, idx]

@@ -97,6 +97,7 @@ if model_name in ["logreg", "svm"]:
     plt.gca().invert_yaxis()
     plt.show()
 
+
 else:
     print("\nThis model does not provide direct word coefficients.")
     print("It uses probabilistic or tree-based decision logic.")
